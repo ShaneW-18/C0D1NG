@@ -175,6 +175,8 @@
 - [Shruti Kashyap](https://github.com/shrutikdev)
 - [Suraj Nayak](https://github.com/suraj789098)
 - [Sanyu Daver](https://github.com/sanyud24)
+- [Shane Wiles](https://github.com/ShaneW-18/)
+
 
 # T
 
